@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Manuel
+### Manuel Ruffieux
 #### I am a Software and Information Systems Engineering Student
 
 Here i'll showcase some of my projects
