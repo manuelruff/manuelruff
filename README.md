@@ -17,4 +17,4 @@ Here i'll showcase some of my projects
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 
 ### GitHub Stats <br/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuelruff)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuelruff&show_icons=true&theme=transparent)
