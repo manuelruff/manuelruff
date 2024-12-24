@@ -1,6 +1,14 @@
 ### ❄️ Manuel Ruffieux
 #### Software and Information Systems Engineering Student
 
+<a href="[https://www.linkedin.com/in/manuel-ruffieux/](https://www.linkedin.com/in/manuel-ruffieux/)" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:manuel.ruffieux@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail">
+</a>
+
+
 Welcome! Here, I'll showcase some of my projects.
 
 ### 🧰 Languages and Tools
