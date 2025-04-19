@@ -1,7 +1,6 @@
 ### ❄️ Manuel Ruffieux  
-#### Software and Information Systems Engineering Student | Full Stack Developer  
+#### Software and Information Systems Engineering Student | Software Developer  
 
-I’m a passionate developer with hands-on experience in building scalable web-based tools and applications. Currently, I’m working at the [Yeger-Lotem Lab](https://netbio.bgu.ac.il/labwebsite/) as a Full Stack Developer, contributing to cutting-edge research tools for network biology. I love solving challenging problems and constantly learning new technologies to enhance my skill set.
 
 ---
 
