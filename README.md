@@ -1,5 +1,5 @@
 ### ❄️ Manuel Ruffieux  
-#### Software and Information Systems Engineering Student | Software Developer  
+#### Software and Information Systems Engineering Graduate | Software Developer  
 
 
 ---
