@@ -1,6 +1,6 @@
 ### ❄️ Manuel Ruffieux  
 #### Software Developer, Tiff - CW at Meta 
-#### Bsc in Software and Information Systems Engineering
+#### B.Sc in Software and Information Systems Engineering
 
 
 ---
