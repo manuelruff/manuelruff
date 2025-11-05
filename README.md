@@ -12,14 +12,6 @@
 
 **Tools & Technologies:** React.js | Vue.js | Node.js | HTML | CSS | Git | REST API | Microservices  
 
----
-
-### 📊 GitHub Statistics  
-
-![GitHub Detailed Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manuelruff&theme=radical)
-
----
-
 ### 📫 How to Reach Me  
 
 <a href="https://www.linkedin.com/in/manuel-ruffieux/" target="_blank" style="text-decoration: none;">
