@@ -3,16 +3,6 @@
 #### B.Sc in Software and Information Systems Engineering
 
 
----
-
-### 🛠️ Skills & Tools  
-
-**Programming Languages:** Python | Java | JavaScript | C | C++ | C# | SQL  
-
-**Programming Principles:** OOP | Design Patterns | Multi-threading | Data Structures  
-
-**Tools & Technologies:** React.js | Vue.js | Node.js | HTML | CSS | Git | REST API | Microservices  
-
 ### 📫 How to Reach Me  
 
 <a href="https://www.linkedin.com/in/manuel-ruffieux/" target="_blank" style="text-decoration: none;">
